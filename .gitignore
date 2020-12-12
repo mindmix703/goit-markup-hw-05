@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+# Test directories
+test/
+
+# Test html and css files
+test/css-test.css
+test/test.html
